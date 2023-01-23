@@ -6,7 +6,7 @@ class DevelopmentConfig(Config):
     DEBUG = True
     MYSQL_HOST = 'localhost'
     MYSQL_USER = 'root'
-    MYSQL_PASSWORD = '123456'
+    MYSQL_PASSWORD = 'V!sionmysql-2023'
     MYSQL_DB = 'flask_login'
 
 

@@ -1,0 +1,19 @@
+{% extends './base.html' %}
+
+{% block title%} Contacto {% endblock %}
+
+{% block body %}
+<form class="grid" action="/result" method="POST">
+
+   <label for="name">Ingrese el PON de la ONT:</label>
+   <input type="text" id="pon" name="pon">
+
+   <center><input class="file_submit" type="Submit"></center>
+    {% if pon %}
+      <center>
+	      <br></br>
+	      <h3 style="color: blue;" class="let_space">{{pon}}</h3>
+      </center> 
+    {% endif %}
+</form>
+{% endblock %}
