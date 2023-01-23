@@ -30,3 +30,4 @@ Para instalar los paquetes necesarios:
 [![Udemy](https://img.shields.io/badge/Udemy-Oscar_Garcia-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/sql-para-administracion-de-bases-de-datos-con-mysql/)
 [![Web](https://img.shields.io/badge/My_Website-uskokrum2010.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://uskokrum2010.com)
 [![Email](https://img.shields.io/badge/uskokrum2010@gmail.com-mi_email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:uskokrum2010@gmail.com)
+# oltautomation
